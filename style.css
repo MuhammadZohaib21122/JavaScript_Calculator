@@ -14,7 +14,7 @@ body {
   background-color: rgb(58, 55, 55);
   border-radius: 15px;
   max-width: 500px;
-  overflow: hidden;
+  overflow:scroll;
   text-align: center;
 }
 
