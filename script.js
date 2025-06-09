@@ -22,7 +22,6 @@ function appendToDisplay(input) {        //add numbers or operators to the displ
     else {
         display.value += input;
     }
-
 }
 
 function cleardisplay() {  // they can empty the input value
